@@ -3,7 +3,7 @@
 A Python-based home network monitoring dashboard that detects connected devices,
 tracks bandwidth usage, monitors uptime, and maintains device history — all in a live web dashboard.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](screenshot.png.jpeg)
 
 ---
 
