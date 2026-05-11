@@ -1,0 +1,5 @@
+nicknames.json
+network_history.db
+__pycache__/
+venv/
+*.pyc
